@@ -24,6 +24,6 @@
   "homepage": "https://github.com/servel333/vogels-promisified#readme",
   "dependencies": {
     "bluebird": "^3.3.3",
-    "vogels": "^2.2.0"
+    "vogels": "git+https://github.com/andyday/vogels.git"
   }
 }
